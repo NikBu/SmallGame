@@ -1,1 +1,1 @@
-# StrangeCode
+Учебный проект на pygame. 
